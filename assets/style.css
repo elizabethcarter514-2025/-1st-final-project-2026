@@ -264,6 +264,9 @@ header .row {
     width: 100%;
     max-width: 768px;
 }
+.header__customers {
+    width:90%
+}
 
 
 /* 
